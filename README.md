@@ -1,31 +1,45 @@
-# Sparsh Jindal
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Sparsh Jindal" />
+</div>
 
-Full-stack engineer building tools across web, finance, and systems.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/sparsh-jindal-64670930a/) &bull; [Email](mailto:sparshjindal06@gmail.com) &bull; [Repositories](https://github.com/SparshJindal?tab=repositories)
+<div align="center">
+  <a href="https://github.com/SparshJindal/afterframe">
+    <img src="assets/card_afterframe.svg" width="49%" alt="afterframe" />
+  </a>
+  <a href="https://github.com/SparshJindal/Finance-Tool">
+    <img src="assets/card_finance.svg" width="49%" alt="Finance-Tool" />
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://github.com/SparshJindal/pokerwise">
+    <img src="assets/card_pokerwise.svg" width="49%" alt="pokerwise" />
+  </a>
+  <a href="https://github.com/SparshJindal/inference-net">
+    <img src="assets/card_inference.svg" width="49%" alt="inference-net" />
+  </a>
+</div>
 
-### Selected Work
+<br/>
 
-| # | Project | Description | Stack |
-| :---: | :--- | :--- | :--- |
-| `01` | **[afterframe](https://github.com/SparshJindal/afterframe)** | Movie logging tool & personal cinema tracker | `JavaScript` `React` `Postgres` |
-| `02` | **[Finance-Tool](https://github.com/SparshJindal/Finance-Tool)** | Market news and intelligence tailored to your investment portfolio | `TypeScript` `Node.js` |
-| `03` | **[pokerwise](https://github.com/SparshJindal/pokerwise)** | Real-time poker probability & hand calculation engine | `TypeScript` |
-| `04` | **[inference-net](https://github.com/SparshJindal/inference-net)** | Neural network inference & deep learning experiments | `Python` |
-| `05` | **[DSA-Progress](https://github.com/SparshJindal/DSA-Progress)** | Solutions, patterns, and notes for LeetCode problems | `C++` |
+<div align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tech Stack" />
+</div>
 
----
+<br/>
 
-### Specifications
-
-```
-Languages    :  TypeScript, JavaScript, C++, Python, SQL
-Frontend     :  React, Next.js, Tailwind CSS
-Backend      :  Node.js, Express, PostgreSQL
-Tooling      :  Docker, Git, Linux
-```
-
----
-<sub>No buzzwords. Just building things that work.</sub>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sparsh-jindal-64670930a/">
+    <code>linkedin / sparsh-jindal</code>
+  </a>
+  &nbsp;&bull;&nbsp;
+  <a href="mailto:sparshjindal06@gmail.com">
+    <code>email / sparshjindal06@gmail.com</code>
+  </a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/SparshJindal?tab=repositories">
+    <code>github / repositories</code>
+  </a>
+</div>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="100%" height="130" fill="none">
+  <defs>
+    <linearGradient id="stack-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect width="880" height="130" rx="12" fill="url(#stack-bg)" />
+  <rect x="0.5" y="0.5" width="879" height="129" rx="11.5" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Top label -->
+  <g transform="translate(36, 28)">
+    <text class="mono" font-size="11" font-weight="600" fill="#38bdf8" letter-spacing="0.08em">SYSTEMS &amp; TOOLING</text>
+    <text class="mono" font-size="11" fill="#475569" x="180">CORE CAPABILITIES</text>
+  </g>
+
+  <!-- Chips Grid -->
+  <g transform="translate(36, 56)">
+    <!-- Langs -->
+    <g transform="translate(0, 0)">
+      <text class="mono" font-size="10.5" fill="#64748b" y="16">LANGUAGES</text>
+      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">TypeScript &bull; JavaScript &bull; C++ &bull; Python &bull; SQL</text>
+    </g>
+
+    <line x1="0" y1="30" x2="808" y2="30" stroke="#1e293b" stroke-width="0.75" />
+
+    <!-- Frameworks -->
+    <g transform="translate(0, 42)">
+      <text class="mono" font-size="10.5" fill="#64748b" y="16">FRAMEWORKS</text>
+      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">React &bull; Next.js &bull; Node.js &bull; Express &bull; Tailwind &bull; PostgreSQL &bull; Docker</text>
+    </g>
+  </g>
+</svg>
