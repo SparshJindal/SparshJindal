@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Sparsh Jindal" />
+  <img src="assets/hero.svg?v=2" width="100%" alt="Sparsh Jindal" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/SparshJindal/afterframe">
-    <img src="assets/card_afterframe.svg" width="49%" alt="afterframe" />
+    <img src="assets/card_afterframe.svg?v=2" width="49%" alt="afterframe" />
   </a>
   <a href="https://github.com/SparshJindal/Finance-Tool">
-    <img src="assets/card_finance.svg" width="49%" alt="Finance-Tool" />
+    <img src="assets/card_finance.svg?v=2" width="49%" alt="Finance-Tool" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/SparshJindal/pokerwise">
-    <img src="assets/card_pokerwise.svg" width="49%" alt="pokerwise" />
+    <img src="assets/card_pokerwise.svg?v=2" width="49%" alt="pokerwise" />
   </a>
   <a href="https://github.com/SparshJindal/inference-net">
-    <img src="assets/card_inference.svg" width="49%" alt="inference-net" />
+    <img src="assets/card_inference.svg?v=2" width="49%" alt="inference-net" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tech Stack" />
+  <img src="assets/stack.svg?v=2" width="100%" alt="Tech Stack" />
 </div>
 
 <br/>
