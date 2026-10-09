@@ -30,10 +30,10 @@
   <g transform="translate(325, 20)">
     
 <rect x="25" y="5" width="28" height="38" rx="3" fill="#18181b" stroke="#f59e0b" stroke-width="1" stroke-opacity="0.6" />
-<text x="32" y="20" font-size="12" fill="#f59e0b" font-weight="bold" font-family="sans-serif">&spades;</text>
+<text x="32" y="20" font-size="12" fill="#f59e0b" font-weight="bold" font-family="sans-serif">&#9824;</text>
 <text x="39" y="34" font-size="11" fill="#fbbf24" font-weight="bold" font-family="sans-serif">A</text>
 <rect x="42" y="10" width="28" height="38" rx="3" fill="#27272a" stroke="#ef4444" stroke-width="1" stroke-opacity="0.6" />
-<text x="49" y="25" font-size="12" fill="#ef4444" font-weight="bold" font-family="sans-serif">&diams;</text>
+<text x="49" y="25" font-size="12" fill="#ef4444" font-weight="bold" font-family="sans-serif">&#9830;</text>
 <text x="56" y="39" font-size="11" fill="#f87171" font-weight="bold" font-family="sans-serif">K</text>
 
   </g>
@@ -41,9 +41,9 @@
   <!-- Title & Description -->
   <g transform="translate(26, 78)">
     <text class="sans" font-size="20" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">pokerwise</text>
-    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8" width="370">
+    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8">
       <tspan x="0" dy="0">Real-time poker calculations, equity modeling</tspan>
-      <tspan x="0" dy="18">and hand analysis so your brain doesn't hurt.</tspan>
+      <tspan x="0" dy="18">and hand analysis so your brain doesn&#39;t hurt.</tspan>
     </text>
   </g>
 

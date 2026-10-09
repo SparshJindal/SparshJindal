@@ -48,7 +48,7 @@
   <!-- Title & Description -->
   <g transform="translate(26, 78)">
     <text class="sans" font-size="20" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">inference-net</text>
-    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8" width="370">
+    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8">
       <tspan x="0" dy="0">Explorations in deep learning, neural inference,</tspan>
       <tspan x="0" dy="18">and custom machine learning architectures.</tspan>
     </text>

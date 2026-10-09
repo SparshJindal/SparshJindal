@@ -25,7 +25,7 @@
     <!-- Langs -->
     <g transform="translate(0, 0)">
       <text class="mono" font-size="10.5" fill="#64748b" y="16">LANGUAGES</text>
-      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">TypeScript &bull; JavaScript &bull; C++ &bull; Python &bull; SQL</text>
+      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">TypeScript &#8226; JavaScript &#8226; C++ &#8226; Python &#8226; SQL</text>
     </g>
 
     <line x1="0" y1="30" x2="808" y2="30" stroke="#1e293b" stroke-width="0.75" />
@@ -33,7 +33,7 @@
     <!-- Frameworks -->
     <g transform="translate(0, 42)">
       <text class="mono" font-size="10.5" fill="#64748b" y="16">FRAMEWORKS</text>
-      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">React &bull; Next.js &bull; Node.js &bull; Express &bull; Tailwind &bull; PostgreSQL &bull; Docker</text>
+      <text class="mono" font-size="12" font-weight="500" fill="#e2e8f0" x="100" y="16">React &#8226; Next.js &#8226; Node.js &#8226; Express &#8226; Tailwind &#8226; PostgreSQL &#8226; Docker</text>
     </g>
   </g>
 </svg>

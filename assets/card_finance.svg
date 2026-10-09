@@ -38,8 +38,8 @@
   <!-- Title & Description -->
   <g transform="translate(26, 78)">
     <text class="sans" font-size="20" font-weight="700" fill="#f8fafc" letter-spacing="-0.02em">Finance-Tool</text>
-    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8" width="370">
-      <tspan x="0" dy="0">Automated news & sentiment intelligence engine</tspan>
+    <text y="26" class="sans" font-size="12.5" font-weight="400" fill="#94a3b8">
+      <tspan x="0" dy="0">Automated news &amp; sentiment intelligence engine</tspan>
       <tspan x="0" dy="18">tailored directly to investment portfolios.</tspan>
     </text>
   </g>
