@@ -1,31 +1,31 @@
 # Sparsh Jindal
 
-Full-stack developer building web apps, finance tools, and whatever else seems interesting.
+Full-stack engineer building tools across web, finance, and systems.
 
-[Email](mailto:sparshjindal06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/sparsh-jindal-64670930a/) • [GitHub Repositories](https://github.com/SparshJindal?tab=repositories)
-
----
-
-### Projects
-
-- **[afterframe](https://github.com/SparshJindal/afterframe)** — Movie logging tool (decided I was too good for Letterboxd).
-- **[Finance-Tool](https://github.com/SparshJindal/Finance-Tool)** — News reports and summaries tailored to your investment portfolio.
-- **[pokerwise](https://github.com/SparshJindal/pokerwise)** — Poker calculations and hand analysis.
-- **[inference-net](https://github.com/SparshJindal/inference-net)** — Neural network inference experiments.
-- **[DSA-Progress](https://github.com/SparshJindal/DSA-Progress)** — Solutions and notes for LeetCode problems in C++.
+[LinkedIn](https://www.linkedin.com/in/sparsh-jindal-64670930a/) &bull; [Email](mailto:sparshjindal06@gmail.com) &bull; [Repositories](https://github.com/SparshJindal?tab=repositories)
 
 ---
 
-### Tech
+### Selected Work
 
-- **Languages:** TypeScript, JavaScript, C++, Python, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL
-- **Tools:** Docker, Git, Linux
+| # | Project | Description | Stack |
+| :---: | :--- | :--- | :--- |
+| `01` | **[afterframe](https://github.com/SparshJindal/afterframe)** | Movie logging tool & personal cinema tracker | `JavaScript` `React` `Postgres` |
+| `02` | **[Finance-Tool](https://github.com/SparshJindal/Finance-Tool)** | Market news and intelligence tailored to your investment portfolio | `TypeScript` `Node.js` |
+| `03` | **[pokerwise](https://github.com/SparshJindal/pokerwise)** | Real-time poker probability & hand calculation engine | `TypeScript` |
+| `04` | **[inference-net](https://github.com/SparshJindal/inference-net)** | Neural network inference & deep learning experiments | `Python` |
+| `05` | **[DSA-Progress](https://github.com/SparshJindal/DSA-Progress)** | Solutions, patterns, and notes for LeetCode problems | `C++` |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SparshJindal&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshJindal&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
+### Specifications
+
+```
+Languages    :  TypeScript, JavaScript, C++, Python, SQL
+Frontend     :  React, Next.js, Tailwind CSS
+Backend      :  Node.js, Express, PostgreSQL
+Tooling      :  Docker, Git, Linux
+```
+
+---
+<sub>No buzzwords. Just building things that work.</sub>
